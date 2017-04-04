@@ -2,7 +2,7 @@
 # String-Methods-Implementation-C
 
 **Features Dynamic Memory Allocation and String manipulation in C language. 
-
+**Implementation of string methods such as join, split and reverse in C
 
 Programming Challenge: Overview
 
