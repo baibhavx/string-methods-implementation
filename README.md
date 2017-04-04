@@ -28,7 +28,7 @@ programs as a template.
   
 
 4. When the user presses ENTER, the program performs the following:
-  Note: Please do not use the strtok() function.
+   Note: Please do not use the strtok() function.
   
   a. Redisplay the sentence as typed.
   
