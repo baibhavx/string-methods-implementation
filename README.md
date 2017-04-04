@@ -1,9 +1,9 @@
-**This is a programming challenge I completed as part of interview process for Embedded Systems Programmer position.** 
+**This is a programming challenge I completed as part of an interview process for Embedded Systems Programmer position.** 
 # String-Methods-Implementation-C
 
 **Features Dynamic Memory Allocation and String manipulation in C language. 
 
-**Implements of string methods such as join, split and reverse in C.
+**Implements string methods such as join, split and reverse in C.
 
 **Implements quick sort to sort individual words in a sentence. 
 
