@@ -3,8 +3,9 @@
 
 **Features Dynamic Memory Allocation and String manipulation in C language. 
 
-**Implements of string methods such as join, split and reverse in C
-  Implements quick sort to sort individual words in a sentence. 
+**Implements of string methods such as join, split and reverse in C.
+
+**Implements quick sort to sort individual words in a sentence. 
 
 
 Programming Challenge: Overview
