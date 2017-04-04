@@ -30,12 +30,12 @@ programs as a template.
 4. When the user presses ENTER, the program performs the following:
    Note: Please do not use the strtok() function.
   
-  a. Redisplay the sentence as typed.
+    a. Redisplay the sentence as typed.
   
-  b. Reverse the order of each word in the sentence.
+    b. Reverse the order of each word in the sentence.
   
-  c. “Smart Label Printer” will become “Printer Label Smart”
+    c. “Smart Label Printer” will become “Printer Label Smart”
   
-  d. Alphabetically sort each word in the sentence.
+    d. Alphabetically sort each word in the sentence.
   
   e. “Smart Label Printer” will become “amrSt abeLl einPrrt”
