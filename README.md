@@ -21,9 +21,9 @@ programs as a template.
 
 3. Running in the Console, the program receives a sentence from the user.
 
-  a. Output a user prompt.
+    a. Output a user prompt.
   
-  b. User types in a free form sentence and presses ENTER.
+    b. User types in a free form sentence and presses ENTER.
   
   
 
