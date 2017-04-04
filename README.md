@@ -1,5 +1,9 @@
 **This is a programming challenge I completed as part of interview process for Embedded Systems Programmer position.** 
 # String-Methods-Implementation-C
+
+**Features Dynamic Memory Allocation and String manipulation in C language. 
+
+
 Programming Challenge: Overview
 
 Overview: You will create a simple program in C using the KEIL IDE and C51 compiler.
